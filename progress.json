@@ -113,5 +113,14 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786945669.153037,
+    "completed_at": 1786945670.525289,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
